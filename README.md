@@ -4,11 +4,11 @@ Tenho 21 anos e atualmente estou cursando Engenharia de Software, buscando evolu
 
 Atualmente, estou aprofundando meus estudos em JavaScript e Java, enquanto desenvolvo projetos voltados tanto para front-end quanto para back-end, aplicando conceitos de desenvolvimento web, lógica de programação e integração com banco de dados.
 
-🚀 Tecnologias e conhecimentos
-💻 Linguagens: Python, JavaScript e Java
-🗄️ Banco de dados: MySQL
-🌐 Desenvolvimento Front-end e Back-end
-📚 Estudando continuamente boas práticas de desenvolvimento, arquitetura de software e criação de aplicações completas
+🚀 Tecnologias e conhecimentos<br>
+💻 Linguagens: Python, JavaScript e Java<br>
+🗄️ Banco de dados: MySQL<br>
+🌐 Desenvolvimento Front-end e Back-end<br>
+📚 Estudando continuamente boas práticas de desenvolvimento, arquitetura de software e criação de aplicações completas<br><br>
 🎯 Objetivo
 
 Meu foco é crescer profissionalmente na área de tecnologia, desenvolver projetos cada vez mais completos e conquistar oportunidades que me permitam evoluir como desenvolvedor de software.
@@ -16,4 +16,4 @@ Meu foco é crescer profissionalmente na área de tecnologia, desenvolver projet
 📫 Contato
 Email: msantos7768@gmail.com
 
-⭐ Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, estudos e experiências que fazem parte da minha jornada na programação.
+🚀 Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, estudos e experiências que fazem parte da minha jornada na programação.
