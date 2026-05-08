@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Olá! Eu sou o Matheus Souza 👋
+## Olá! Eu sou o Matheus Souza 👋
 
 Tenho 21 anos e atualmente estou cursando Engenharia de Software, buscando evoluir constantemente como desenvolvedor e construir projetos que unam aprendizado, prática e soluções reais.
 
